@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "fonts/poppins"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "fonts/lora"
+		},
+		{
+			"path": "css/micons/fonts"
+		},
+		{
+			"path": "css/micons"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "css/font-awesome/fonts"
+		},
+		{
+			"path": "css/font-awesome"
+		},
+		{
+			"path": "css/font-awesome/css"
+		},
+		{
+			"path": "images/portfolio/modals"
+		},
+		{
+			"path": "images/portfolio"
+		},
+		{
+			"path": "images"
+		}
+	]
+}
